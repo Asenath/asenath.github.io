@@ -14,10 +14,12 @@
 
 <h2>Games</h2>
 <b><a href="https://store.steampowered.com/app/959410/The_Endless_Empty/">The Endless Empty</a></b>-
-A surreal RPG through the memories of a dying mind.<br>
+A surreal RPG through the memories of a dying mind. - Official translation<br>
 <br>
 
-
+<b><a href="https://store.steampowered.com/app/913740/WORLD_OF_HORROR/">WORLD OF HORROR</a></b>-
+A roguelite style horror RPG that mixes Junji Ito and H.P.Lovecraft elements. - Fan patch<br>
+<br>
 
 
 
