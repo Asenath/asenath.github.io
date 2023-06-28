@@ -2025,6 +2025,7 @@ input, select, textarea {
 				left: 3em;
 				top: 3em;
 				opacity: 1;
+				margin-top: 5px;
 			}
 
 			.features section:nth-child(1) .icon {
